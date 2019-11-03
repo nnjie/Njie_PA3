@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc55cb3a-2d0b-4c15-b49e-2b032bb5c0eb" name="Default Changelist" comment="" />
+    <list default="true" id="9f58380b-121b-4ebf-9da3-ebd32018813e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Njie_P1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDuplicate/ProjectDuplicate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Njie_P1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Njie_P1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Njie_P1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Njie_P1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Njie_P1/out/production/Njie_P1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Njie_P1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Njie_P2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +27,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1S775N4Zpwv4oW37vITxl967rre" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T53YNDCtrm1AEnx9scfZWPqDOL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,31 +47,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="SavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccount" />
-      <module name="Njie_P2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SavingsAccount" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc55cb3a-2d0b-4c15-b49e-2b032bb5c0eb" name="Default Changelist" comment="" />
-      <created>1570902595791</created>
+      <changelist id="9f58380b-121b-4ebf-9da3-ebd32018813e" name="Default Changelist" comment="" />
+      <created>1572736175451</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570902595791</updated>
+      <updated>1572736175451</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
